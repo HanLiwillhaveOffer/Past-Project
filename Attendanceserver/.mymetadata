@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Attendanceserver"
+  id="myeclipse.1486262609474"
+  context-root="/Attendanceserver"
+  j2ee-spec="5.0"
+  archive="Attendanceserver.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
