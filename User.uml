@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_ZZvgwSUaEeWtTYVY6jbcQg" name="jspServlet">
+  <packagedElement xmi:type="uml:Package" xmi:id="_ZZvgwiUaEeWtTYVY6jbcQg" name="jspservlet">
+    <packagedElement xmi:type="uml:Package" xmi:id="_ZZvgwyUaEeWtTYVY6jbcQg" name="vo">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_ZZvgxCUaEeWtTYVY6jbcQg">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_ZZvgxSUaEeWtTYVY6jbcQg">
+          <ownedAttribute xmi:id="_ZZvgxiUaEeWtTYVY6jbcQg" name="property" type="_ZZvgyiUaEeWtTYVY6jbcQg"/>
+          <ownedConnector xmi:id="_ZZvgxyUaEeWtTYVY6jbcQg">
+            <end xmi:id="_ZZvgyCUaEeWtTYVY6jbcQg" role="_ZZvgxiUaEeWtTYVY6jbcQg" partWithPort="_ZZvgxiUaEeWtTYVY6jbcQg"/>
+          </ownedConnector>
+          <lifeline xmi:id="_ZZvgySUaEeWtTYVY6jbcQg" name="self" represents="_ZZvgxiUaEeWtTYVY6jbcQg"/>
+        </ownedBehavior>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_ZZvgyiUaEeWtTYVY6jbcQg" name="User"/>
+    </packagedElement>
+  </packagedElement>
+</uml:Model>
